@@ -2,8 +2,6 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Two official plugins are available here
-
 The React Compiler is not enabled on this template because of its impact on dev & build performances. See [this documentation](https://react.dev/learn/react-compiler/installation).
 
 ## Expanding the ESLint configuration
